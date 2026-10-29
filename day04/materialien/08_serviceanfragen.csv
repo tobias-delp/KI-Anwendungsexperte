@@ -1,0 +1,9 @@
+﻿ticket;beschreibung;beispiel_kategorie;beispiel_dringlichkeit
+1;Rechnung doppelt erhalten;Abrechnung;Mittel
+2;Login funktioniert nicht;Technik;Hoch
+3;Bitte Adresse aktualisieren;Stammdaten;Niedrig
+4;Zahlung falsch zugeordnet;Abrechnung;Hoch
+5;Terminverschiebung anfragen;Terminplanung;Mittel
+6;System derzeit nicht erreichbar;Technik;Hoch
+7;Frage zu Liefertermin;Bestellung;Mittel
+8;Auftrag stornieren;Bestellung;Hoch

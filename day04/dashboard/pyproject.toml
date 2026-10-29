@@ -1,0 +1,10 @@
+[project]
+name = "ki-arbeitswelt-tag04-dashboard"
+version = "0.1.0"
+description = "Lokales Streamlit-Dashboard für Tag 4 der KI-Schulung"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2,<3",
+    "numpy>=2.0,<3",
+    "streamlit>=1.40,<2",
+]

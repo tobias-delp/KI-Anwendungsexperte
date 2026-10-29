@@ -1,0 +1,6 @@
+﻿vorgang;datum;art;betrag_eur;notiz
+R01;2026-10-10;Bahn;89,90;Ticket
+R02;2026-10-10;Taxi;25,00;Bahnhof → Hotel
+R03;2026-10-11;Hotel;143,00;Übernachtung
+R04;2026-10-11;Taxi;25,00;"Bahnhof → Hotel; mögliche Dublette prüfen"
+R05;2026-10-12;Verpflegung;18,70;Beleg fehlt

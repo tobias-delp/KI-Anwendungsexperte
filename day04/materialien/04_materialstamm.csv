@@ -1,0 +1,4 @@
+﻿material_id;bezeichnung;kapazitaet_tests_pro_packung;nutzungsdauer_ab_oeffnung_tage;lieferzeit_kalendertage;sicherheitsbestand_packungen
+A;Prüfreagenz A;100;7;5;0
+B;Prüfreagenz B;80;14;8;0
+C;Kalibrierlösung C;50;30;4;0

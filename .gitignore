@@ -1,0 +1,61 @@
+# Python: bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyright/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Virtual environments (uv / Python)
+.venv/
+venv/
+env/
+ENV/
+.python-version.local
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+
+# Streamlit: machine-specific settings and secrets
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+.cache/
+
+# Local test output
+outputs/
+reports/_generated/

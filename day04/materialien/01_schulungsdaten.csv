@@ -1,0 +1,62 @@
+﻿antwort_id;workshop_id;thema;abteilung;zufriedenheit_1_bis_5;nutzen_1_bis_5;weiterempfehlung;workshop_kosten_eur;freitext
+R001;WS-01;Projektmanagement;Verwaltung;4;5;Ja;1200;Der Einstieg war etwas zu schnell
+R002;WS-01;Kommunikation;Technik;3;4;Unentschieden;800;Mehr Übungen wären hilfreich
+R003;WS-01;Digitale Zusammenarbeit;Vertrieb;3;3;Unentschieden;950;
+R004;WS-01;Datenschutz;Service;2;2;Nein;1100;Unterlagen sehr übersichtlich
+R005;WS-01;Excel-Grundlagen;Verwaltung;3;2;Unentschieden;900;Gutes Tempo und verständlich
+R006;WS-01;Projektmanagement;Technik;4;4;Ja;1200;Mehr Zeit für eigenen Fall gewünscht
+R007;WS-02;Datenschutz;Vertrieb;3;3;Unentschieden;1100;Technische Probleme beim Einstieg
+R008;WS-02;Excel-Grundlagen;Service;4;4;Ja;900;Zu wenig Zeit für Fragen
+R009;WS-02;Projektmanagement;Verwaltung;5;5;Ja;1200;Viele nützliche Beispiele
+R010;WS-02;Kommunikation;Technik;3;2;Unentschieden;800;Inhalte direkt anwendbar
+R011;WS-02;Digitale Zusammenarbeit;Vertrieb;;4;Unentschieden;950;Praxisbeispiele waren hilfreich
+R012;WS-02;Datenschutz;Service;3;3;Unentschieden;1100;Der Einstieg war etwas zu schnell
+R013;WS-03;Excel-Grundlagen;Verwaltung;4;4;Ja;900;Mehr Übungen wären hilfreich
+R014;WS-03;Digitale Zusammenarbeit;Technik;4;4;Ja;950;
+R015;WS-03;Datenschutz;Vertrieb;3;3;Unentschieden;1100;Unterlagen sehr übersichtlich
+R016;WS-03;Excel-Grundlagen;Service;5;5;Ja;900;Gutes Tempo und verständlich
+R017;WS-03;Projektmanagement;Verwaltung;4;4;Ja;1200;Mehr Zeit für eigenen Fall gewünscht
+R018;WS-03;Kommunikation;Technik;5;5;Ja;800;Technische Probleme beim Einstieg
+R019;WS-04;Digitale Zusammenarbeit;Vertrieb;3;4;Unentschieden;950;Zu wenig Zeit für Fragen
+R020;WS-04;Datenschutz;Service;4;5;Ja;1100;Viele nützliche Beispiele
+R021;WS-04;Kommunikation;Verwaltung;4;3;Ja;800;Inhalte direkt anwendbar
+R022;WS-04;Digitale Zusammenarbeit;Technik;4;5;Ja;950;Praxisbeispiele waren hilfreich
+R023;WS-04;Datenschutz;Vertrieb;2;2;Nein;1100;Der Einstieg war etwas zu schnell
+R024;WS-04;Excel-Grundlagen;Service;4;4;Ja;900;Mehr Übungen wären hilfreich
+R025;WS-05;projektmanagement;Verwaltung;3;2;Unentschieden;1200;
+R026;WS-05;Kommunikation;Technik;3;4;Unentschieden;800;Unterlagen sehr übersichtlich
+R027;WS-05;Digitale Zusammenarbeit;Vertrieb;4;3;Ja;950;Gutes Tempo und verständlich
+R028;WS-05;Projektmanagement;Service;3;4;Unentschieden;1200;Mehr Zeit für eigenen Fall gewünscht
+R029;WS-05;Kommunikation;Verwaltung;3;4;Unentschieden;800;Technische Probleme beim Einstieg
+R030;WS-05;Digitale Zusammenarbeit;Technik;4;4;Ja;950;Zu wenig Zeit für Fragen
+R031;WS-06;Datenschutz;Vertrieb;4;4;Ja;1100;Viele nützliche Beispiele
+R032;WS-06;Excel-Grundlagen;Service;4;4;Ja;900;Inhalte direkt anwendbar
+R033;WS-06;Projektmanagement;Verwaltung;4;3;Ja;1200;Praxisbeispiele waren hilfreich
+R034;WS-06;Kommunikation;Technik;4;5;Ja;800;Der Einstieg war etwas zu schnell
+R035;WS-06;Excel-Grundlagen;Vertrieb;5;4;Ja;900;Mehr Übungen wären hilfreich
+R036;WS-06;Projektmanagement;Service;5;5;Ja;1200;
+R037;WS-07;Kommunikation;Verwaltung;3;4;Unentschieden;800;Unterlagen sehr übersichtlich
+R038;WS-07;Digitale Zusammenarbeit;Technik;;4;Unentschieden;950;Gutes Tempo und verständlich
+R039;WS-07;Datenschutz;Vertrieb;3;2;Unentschieden;1100;Mehr Zeit für eigenen Fall gewünscht
+R040;WS-07;Excel-Grundlagen;Service;4;3;Ja;900;Technische Probleme beim Einstieg
+R041;WS-07;Projektmanagement;Verwaltung;4;4;Ja;1200;Zu wenig Zeit für Fragen
+R042;WS-07;Datenschutz;Technik;4;5;Ja;1100;Viele nützliche Beispiele
+R043;WS-08;Excel-Grundlagen;Vertrieb;4;4;Ja;900;Inhalte direkt anwendbar
+R044;WS-08;Projektmanagement;Service;3;3;Unentschieden;1200;Praxisbeispiele waren hilfreich
+R045;WS-08;Kommunikation;Verwaltung;3;3;Unentschieden;800;Der Einstieg war etwas zu schnell
+R046;WS-08;Digitale Zusammenarbeit;Technik;5;4;Ja;950;Mehr Übungen wären hilfreich
+R047;WS-08;Datenschutz;Vertrieb;4;3;Ja;1100;
+R048;WS-08;Excel-Grundlagen;Service;5;4;Ja;900;Unterlagen sehr übersichtlich
+R049;WS-09;Digitale Zusammenarbeit;Verwaltung;5;4;Ja;950;Gutes Tempo und verständlich
+R050;WS-09;Datenschutz;Technik;3;2;Unentschieden;1100;Mehr Zeit für eigenen Fall gewünscht
+R051;WS-09;Excel-Grundlagen;Vertrieb;5;4;Ja;900;Technische Probleme beim Einstieg
+R052;WS-09;Projektmanagement;Service;4;4;Ja;1200;Zu wenig Zeit für Fragen
+R053;WS-09;Kommunikation;Verwaltung;5;5;Ja;800;Viele nützliche Beispiele
+R054;WS-09;Digitale Zusammenarbeit;Technik;5;4;Ja;950;Inhalte direkt anwendbar
+R055;WS-10;Datenschutz;Vertrieb;4;4;Ja;1100;Praxisbeispiele waren hilfreich
+R056;WS-10;Kommunikation;Service;5;5;Ja;800;Der Einstieg war etwas zu schnell
+R057;WS-10;Digitale Zusammenarbeit;Verwaltung;4;4;Ja;950;Mehr Übungen wären hilfreich
+R058;WS-10;Datenschutz;Technik;3;4;Unentschieden;1100;
+R059;WS-10;Excel-Grundlagen;Vertrieb;5;5;Ja;900;Unterlagen sehr übersichtlich
+R060;WS-10;Projektmanagement;Service;5;5;Ja;1200;Gutes Tempo und verständlich
+R017;WS-03;Projektmanagement;Verwaltung;4;4;Ja;1200;Mehr Zeit für eigenen Fall gewünscht

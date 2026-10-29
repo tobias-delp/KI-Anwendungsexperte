@@ -1,0 +1,7 @@
+TANKSTELLE NORD · ÜBUNGSBELEG 002
+Datum: 2026-10-16
+Kraftstoff: Super E10
+Menge: 31,20 L
+Literpreis: 1,759 EUR/L
+Gesamtbetrag laut Beleg: 54,88 EUR
+Zahlungsart: Karte

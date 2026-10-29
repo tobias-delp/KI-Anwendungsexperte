@@ -1,0 +1,7 @@
+TANKSTELLE NORD · ÜBUNGSBELEG 003
+Datum: 2026-10-20
+Kraftstoff: Diesel
+Menge: 48,00 L
+Literpreis: 1,699 EUR/L
+Gesamtbetrag laut Beleg: 82,55 EUR
+Zahlungsart: Karte
